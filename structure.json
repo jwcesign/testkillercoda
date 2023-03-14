@@ -1,6 +1,6 @@
 {
   "items": [
-    { "path": "scenario2" },
+    { "path": "killercoda-sample" },
     { "path": "course1", "title": "Override title of course ONE" },
     { "path": "course2" }
   ]
